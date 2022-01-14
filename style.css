@@ -1,4 +1,52 @@
-body {background-color:tan;}
-h1{color:green;}
+body {background-color:black;
+    font-family: arial, serif; color: white}
+h1{color:grey;
+    font-family: Verdana, serif;}
+
+.mainDiv {
+    background-color:white;
+    color:black;
+    padding:20px;
+    border-radius:25px;
+    position: absolute;
+    top: 15%;
+    left: 15%;
+    margin: -25px 0 0 -25px; /* Apply negative top and left margins to truly center the element */
+    text-align: justify-all;
+}
 
 
+.subDiv{
+    padding-left: 100px;
+    position: center;
+}
+input[type="range" i] {
+    appearance: auto;
+    cursor: default;
+    color: blue;
+}
+
+footer {
+ color: black;
+// position: absolute;
+    //top: 60%;
+    //margin: -25px 0 0 -25px; /* Apply negative top and left margins to truly center the element */
+}
+
+/*
+input[type=range] {
+    color: blue;
+    width: 200px;
+    -webkit-appearance: none;
+    height:20px;
+}
+
+input[type="range"]::-webkit-slider-thumb {
+    background-color: #666;
+    color: blue;
+    opacity: 0.5;
+    width: 10px;
+    -webkit-appearance: none;
+    height: 26px;
+}
+*/
