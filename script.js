@@ -7,7 +7,7 @@ function compute() {
     //let amount = parseFloat(principal) + parseFloat(interest); // total cash
     let year = new Date().getFullYear() + parseFloat(years);
 
-    if (parseFloat(principal) <= 0) {
+    if (parseFloat(principal) <= 0 || !principal) {
         alert("Enter a positive number");
     } else {
         document.getElementById("result").innerHTML =
