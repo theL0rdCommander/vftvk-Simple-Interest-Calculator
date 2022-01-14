@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="885327b2-c650-456d-a904-0b657e619327" name="Changes" comment="COSO">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.vftvk-Simple-Interest-Calculator.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.vftvk-Simple-Interest-Calculator.dir/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="885327b2-c650-456d-a904-0b657e619327" name="Changes" comment="coso2">
+      <change beforePath="$PROJECT_DIR$/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +52,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1642111583124</updated>
-      <workItem from="1642111611406" duration="12099000" />
+      <workItem from="1642111611406" duration="12527000" />
     </task>
     <task id="LOCAL-00001" summary="v1.0">
       <created>1642123221500</created>
@@ -68,7 +68,14 @@
       <option name="project" value="LOCAL" />
       <updated>1642123632699</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="coso2">
+      <created>1642123861851</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1642123861851</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -92,7 +99,8 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="v1.0" />
     <MESSAGE value="COSO" />
-    <option name="LAST_COMMIT_MESSAGE" value="COSO" />
+    <MESSAGE value="coso2" />
+    <option name="LAST_COMMIT_MESSAGE" value="coso2" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
